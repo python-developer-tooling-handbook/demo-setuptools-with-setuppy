@@ -1,5 +1,6 @@
-# Setuptools with pyproject.toml and no setup.py
-This package is an example project for building a Python package (i.e. wheel or sdist). It relies on [setuptools](https://setuptools.readthedocs.io/en/latest/) as a build backend with pyproject.toml for configuration.
+# Setuptools with pyproject.toml and setup.py
+
+This package is an example project for building a Python package (i.e. wheel or sdist). It relies on [setuptools](https://setuptools.readthedocs.io/en/latest/) as a build backend with setup.py for configuration.
 
 ## Commands:
 
