@@ -25,7 +25,7 @@ jobs:
         pip install build
     - name: Build package
       run: python -m build
-    - name: Publish package distributions to PyPI
+    - name: Publish package
       uses: pypa/gh-action-pypi-publish@release/v1
       with:
         repository-url: https://test.pypi.org/legacy/
